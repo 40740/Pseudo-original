@@ -11,11 +11,11 @@
 
 
 
-qq交流群：200653131
+qq交流群：313527000
 # 接口地址源文件请进群下载
  # 安装环境
  PHP7+ 支持curl
  
 
-演示：https://www.bunian.cn/ai/
+演示：www.unkc.com/wyc
  <img src="https://raw.githubusercontent.com/bunian/Pseudo-original/master/1.png">
